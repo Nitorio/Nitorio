@@ -3,12 +3,12 @@
 
 
 ## Qualifications and Skills📜
-    * C
-    * C++
-    * Python
-    * Json
-    * VHDL (Very High-Speed Integrated Circuit Hardware Description Language)
-    * Linux, Windows
+* C
+* C++
+* Python
+* Json
+* VHDL (Very High-Speed Integrated Circuit Hardware Description Language)
+* Linux, Windows
     
     
 <h3 align="left">Languages and Tools:</h3>
