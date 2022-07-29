@@ -2,7 +2,7 @@
 <h3 align="center">A computer engineering student with many goals, ideas, and a strive to always seek the big picture.</h3>
 
 
-# Qualifications and Skills📜
+### Qualifications and Skills📜
 * C
 * C++
 * Python
