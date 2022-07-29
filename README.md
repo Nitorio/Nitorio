@@ -16,7 +16,7 @@
 * VHDL (Very High-Speed Integrated Circuit Hardware Description Language)
 * Linux, Windows
     
-    
+ Some of these skills were attained with supervised training and some are personal research
     
     
     
