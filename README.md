@@ -1,4 +1,5 @@
-![Sunset Retro](https://user-images.githubusercontent.com/110080013/181681972-bd832cbf-1ede-4af8-aa99-8ec91aa7b0ee.gif)
+![anime](https://user-images.githubusercontent.com/110080013/181682518-89b26d6c-0400-44de-a898-fbcd8c372b4a.gif)
+
 <h1 align="center">Rise Above it 🌄</h1>
 <h3 align="center">A computer engineering student with many goals, ideas, and a strive to always seek the big picture.</h3>
 
