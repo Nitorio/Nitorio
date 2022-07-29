@@ -1,4 +1,5 @@
-![anime](https://user-images.githubusercontent.com/110080013/181682518-89b26d6c-0400-44de-a898-fbcd8c372b4a.gif)
+![4910984](https://user-images.githubusercontent.com/110080013/181683385-7a9fa94a-20c4-49fe-9bc5-45afff4de6a6.gif)
+
 
 <h1 align="center">Rise Above it 🌄</h1>
 <h3 align="center">A computer engineering student with many goals, ideas, and a strive to always seek the big picture.</h3>
