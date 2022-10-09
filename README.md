@@ -27,8 +27,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ferko_alawwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ferko_alawwad" height="30" width="40" /></a>
-<a href="https://instagram.com/abdulaziz.alawwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdulaziz.alawwad" height="30" width="40" /></a>
 <a href="https://discord.gg/Ettorio#8944" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ettorio#8944" height="30" width="40" /></a>
 </p>
 
