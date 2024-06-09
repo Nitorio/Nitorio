@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Rise Above it 🌄</h1>
-<h3 align="center">A computer engineering student with many goals, ideas, and a strive to always seek the big picture.</h3>
+<h3 align="center">A computer engineer with many goals, ideas, and a strive to always seek the big picture.</h3>
 
 
 
