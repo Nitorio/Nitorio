@@ -3,11 +3,8 @@
 
 <h1 align="center">Rise Above it 🌄</h1>
 <h3 align="center">Hello!
-
 I am a computer engineer with a deep passion for everything related to computer systems. I am dedicated to continually advancing my education by learning new tools and technologies to enhance my everyday tasks.
-
 During my studies abroad, I discovered that taking responsibility is essential for a healthy way of living, a lesson I have embraced and brought back with me.
-
 When I'm not learning or programming, you'll likely find me playing video games!</h3>
 
 
